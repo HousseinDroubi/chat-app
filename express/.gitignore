@@ -1,0 +1,9 @@
+# Firebase admin
+service-account-key.json
+
+dist/
+node_modules/
+.env
+src/temp/
+src/public/
+conversations/
